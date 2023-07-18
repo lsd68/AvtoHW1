@@ -1,11 +1,8 @@
 package ru.netology.service;
 
 import org.testng.Assert;
-import org.testng.annotations.Test;
 
 public class CashbackHackServiceTest {
-    public CashbackHackServiceTest() {
-    }
 
     @org.testng.annotations.Test
     public void testRemain() {
