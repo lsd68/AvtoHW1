@@ -1,2 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/04jah7s1tcjojteg?svg=true)](https://ci.appveyor.com/project/lsd68/avtohw1)
-
+[![Java CI with Gradle](https://github.com/lsd68/AvtoHW1/actions/workflows/gradle.yml/badge.svg)](https://github.com/lsd68/AvtoHW1/actions/workflows/gradle.yml)
